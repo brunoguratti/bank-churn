@@ -32,7 +32,7 @@ This Bank Churn Prediction app leverages a deep learning model to predict the li
 4. **Feature Importance**: View a bar plot explaining the feature importance and contribution to the churn prediction using LIME.
 
 ## Demo video
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/a8993bc5dda5480da6013412b214141b?sid=943f2c55-5891-4c5c-9fcc-97b2a1dce927" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/share/a8993bc5dda5480da6013412b214141b?sid=16b46939-ab1e-4caf-9568-dff7ed875c60
 
 ## Technologies Used
 
